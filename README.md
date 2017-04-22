@@ -1,4 +1,4 @@
-Note: Ingesting Twitter Data to MongoDB
+Note: Ingesting Twitter Data to MongoDB (make sure on mongo branch)
 
 
 Georgetown Twitter (Chirpy)
